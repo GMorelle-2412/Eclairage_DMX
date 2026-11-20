@@ -1,4 +1,5 @@
 #include "main_qt.h"
+#include "FenetreTest.h"
 #include <QtWidgets/QApplication>
 
 int main(int argc, char *argv[])

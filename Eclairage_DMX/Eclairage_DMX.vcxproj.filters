@@ -43,10 +43,21 @@
     <ClCompile Include="PilotageLumiere.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FenetreTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PilotageLumiere.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="_DasHard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="FenetreTest.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
   </ItemGroup>
 </Project>
